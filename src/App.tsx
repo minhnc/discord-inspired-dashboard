@@ -1,5 +1,5 @@
 import 'twin.macro'
-import SideBar from '@src/SideBar'
+import { SideBar } from '@src/SideBar'
 
 function App() {
   return (
