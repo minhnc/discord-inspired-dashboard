@@ -1,9 +1,10 @@
 import 'twin.macro'
+import SideBar from '@src/SideBar'
 
 function App() {
   return (
     <div tw="flex">
-      <span tw="text-green-400">Vite + React</span>
+      <SideBar />
     </div>
   )
 }
