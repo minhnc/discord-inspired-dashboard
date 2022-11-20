@@ -9,6 +9,5 @@ export const Content = () => (
 
 const styles = {
   container: tw`flex
-                h-full w-full
-                overflow-hidden`
+                h-full w-full`
 }

@@ -10,7 +10,7 @@ export default () => (
 
 const styles = {
   container: tw`w-1/5 flex items-center justify-start
-                bg-gray-300
+                bg-gray-300 dark:bg-gray-600
                 text-gray-500
                 h-9 px-2 mx-0
                 rounded-md shadow-md`,

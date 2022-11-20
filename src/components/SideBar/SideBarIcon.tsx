@@ -15,7 +15,7 @@ export default ({ icon, text = 'tooltip 💡' }: ISideBarIcon) => (
 const styles = {
   container: tw`relative flex items-center justify-center
                 h-12 w-12 mt-2 mb-2 mx-auto
-                bg-gray-300 hover:bg-green-600
+                bg-gray-300 dark:bg-gray-500 hover:bg-green-600
                 text-green-500 hover:text-white
                 hover:rounded-xl rounded-3xl
                 transition-all duration-200 ease-linear
