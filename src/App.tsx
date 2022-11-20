@@ -1,6 +1,6 @@
 import 'twin.macro'
-import { SideBar } from '@src/SideBar'
-import { Content } from '@src/Content'
+import { SideBar } from '@src/components/SideBar'
+import { Content } from '@src/components/Content'
 
 function App() {
   return (
